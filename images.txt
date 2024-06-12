@@ -1,2 +1,1 @@
-memcached:1.6.28-bookworm
-wordpress:latest
+centos:7.9.2009
