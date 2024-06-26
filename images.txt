@@ -20,4 +20,3 @@ bitnami/logstash
 migoller/shinobidocker
 mlocati/php-extension-installer
 phpswoole/swoole:php8.1-alpine
-nginx:1.20.2
