@@ -28,3 +28,4 @@ p3terx/ariang
 adolfintel/speedtest
 ghcr.io/gethomepage/homepage:latest
 alpine:3.18.2
+haroldli/alist-tvbox
