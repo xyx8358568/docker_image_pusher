@@ -27,4 +27,4 @@ p3terx/aria2-pro
 p3terx/ariang
 adolfintel/speedtest
 ghcr.io/gethomepage/homepage:latest
-bestwu/thunderspeed
+alpine:3.18.2
