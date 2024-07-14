@@ -22,10 +22,7 @@ mlocati/php-extension-installer
 phpswoole/swoole:php8.1-alpine
 nginx:1.20.2
 kerberos/agent:latest
-xiaoyaliu/alist:latest
 p3terx/aria2-pro
 p3terx/ariang
 adolfintel/speedtest
 ghcr.io/gethomepage/homepage:latest
-alpine:3.18.2
-haroldli/alist-tvbox
