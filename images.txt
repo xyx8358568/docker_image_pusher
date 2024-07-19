@@ -27,3 +27,4 @@ p3terx/ariang
 adolfintel/speedtest
 ghcr.io/gethomepage/homepage:latest
 xhofe/alist
+oldiy/baidupcs
