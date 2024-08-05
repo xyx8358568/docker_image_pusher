@@ -1,4 +1,3 @@
-bitnami/jenkins
 bitnami/tomcat
 bitnami/memcached-exporter
 bitnami/kubectl
@@ -28,3 +27,4 @@ adolfintel/speedtest
 ghcr.io/gethomepage/homepage:latest
 xhofe/alist
 johngong/baidunetdisk
+jenkins/jenkins
